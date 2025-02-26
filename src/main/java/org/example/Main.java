@@ -11,7 +11,7 @@ public class Main {
         AnsiConsole.systemUninstall();
         System.out.println(Ansi.ansi().fg(Ansi.Color.RED).a("Hello World").reset());
         AnsiConsole.systemUninstall();
-        System.out.println(Ansi.ansi().fg(Ansi.Color.BLUE).a("Hello World").reset());
+        System.out.println(Ansi.ansi().fg(Ansi.Color.BLUE).a("Hello Mundo").reset());
         AnsiConsole.systemUninstall();
         System.out.println(Ansi.ansi().fg(Ansi.Color.YELLOW).a("Hello World").reset());
         AnsiConsole.systemUninstall();
